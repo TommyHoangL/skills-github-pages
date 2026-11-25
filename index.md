@@ -1,3 +1,3 @@
 ---
-Title: </h1> Welcome to my Mogg!
+Title: Welcome to my Mogg!
 ---
